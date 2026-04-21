@@ -6,6 +6,8 @@ This project is a **LeetCode crawler** that automatically downloads problem stat
 
 The crawler uses a headless browser to load dynamic content, capture images (including carousel slides), and transform the rendered HTML into structured Markdown.
 
+The main purpose of this project is to practice with JavaScript and web crawling of dynamic websites.
+
 ---
 
 ## Purpose
